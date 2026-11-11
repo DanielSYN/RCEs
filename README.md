@@ -6,5 +6,7 @@ I will also post all of my failed RCEs so you know what dead ends you could run 
 Lots of these exploits will be in steam games (hopefully valve patches this soon) because unity application.openurl has been destroying games recently (orbital gear, grapples galore, etc etc)
 this is not all RCEs ive ever made but i will start posting now.
 
+Also some of these are not mine. I have left credits where appropriate in the files
+
 Will probably use this to train AI in the future.
 If you find this useful please star it
